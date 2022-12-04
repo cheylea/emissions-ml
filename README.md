@@ -1,4 +1,4 @@
-# csck503project
+# Machine Learning with Emissions Data
 
 This repository was created for the masters group assignment within the Machine Learning in Practice university module at the University of Liverpool.
 
